@@ -1,3 +1,3 @@
-# Asystent-glosowy
+# Voice Assistant
 
-Projekt ma na celu stworzenie kompleksowego asystenta głosowego, który będzie w stanie dostarczać informacji na temat aktualnych kursów walut oraz wykonywać operacje przeliczania walut na PLN. Ponadto, asystent będzie zdolny do udostępniania aktualnej ceny złota oraz archiwalnych kursów walut i cen złota na podstawie określonego dnia. Asystent zostanie zaprojektowany tak, aby umożliwić użytkownikom wygodne uzyskiwanie potrzebnych informacji w szybki i efektywny sposób.
+The project aims to create a comprehensive voice assistant that will be able to provide information about current currency exchange rates and perform currency conversion operations to PLN. Additionally, the assistant will be capable of providing the current price of gold and historical currency exchange rates and gold prices based on a specified date. The assistant will be designed to enable users to conveniently obtain the necessary information in a quick and efficient manner.
